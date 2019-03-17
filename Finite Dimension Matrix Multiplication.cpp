@@ -22,7 +22,7 @@ int main() {
 	{	
 		for(int j=0;j<q;++j)
 		{	
-			scanf_s("%d",&a[i][j]);
+			scanf_s("%d",&b[i][j]);
 		}
 	}
 	for(int i=0;i<m;++i)
